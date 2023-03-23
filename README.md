@@ -1,4 +1,9 @@
-### Hi there 👋
+<!--### Hi there 👋
+-->
+
+![shoes-2](https://user-images.githubusercontent.com/92150126/227163116-be219d7c-9cdb-4a5f-a48f-2d51e624eddd.svg)
+
+
 
 <!--
 **KarolisSad/KarolisSAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
